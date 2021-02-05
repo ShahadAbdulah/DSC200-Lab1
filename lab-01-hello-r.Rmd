@@ -1,6 +1,6 @@
 ---
 title: "Lab 01 - Hello R"
-author: "shahadabdulah"
+author: "shahad abdulah"
 date: "2/1/2021"
 output: html_document
 ---
@@ -12,9 +12,39 @@ University ID: 2201001400
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
 library(datasauRus)
-```
-
-
+``` 
 ### Lab Exercise
 
-(Type your answer to the Exercise here. Remember to include the code, you need to put the code between three backticks followed by the following line on top of the code {r load-packages, message=FALSE}. See 'Load Packages' above as an example. Delete everything in these brackets after typing your answer.)
+(This database consists of 1846 rows
+The data type is character, and x & y is dbl
+
+The variable x
+The lowest number is 15.56 and the largest number is 98.29
+The median is 52.59
+The average is 54.27
+——-
+
+The variable y
+The lowest number 0,015
+The largest number is 99,694
+The mediator 47.59
+The average is 47.83
+
+
+In the variable x
+First Quarter 1st Qu
+It means that 25% of the data is less than 41.07
+And 75% ؜ of it is higher than the same number
+
+The third quarter is 3rd Qu
+It means that 75% of the data is below 67.28 and 25% of it is higher
+—————-
+
+The variable y
+First Quarter
+25% of data is below 22,56
+And 75% ؜ higher
+
+The third quarter means 75% ؜ of the data below 71.81
+And 25% ؜ higher
+)
