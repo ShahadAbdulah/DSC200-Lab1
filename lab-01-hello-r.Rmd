@@ -39,3 +39,5 @@ And 75% ؜ higher
 The third quarter means 75% ؜ of the data below 71.81
 And 25% ؜ higher
 )
+answer task 3
+The codes have not changed, only the name of the form that will appear, task2 appears, a dinosaur because we wrote dion in the code, but in task3 we wrote the code, but the difference of the dion by the star command 
