@@ -17,34 +17,25 @@ library(datasauRus)
 
 (This database consists of 1846 rows
 The data type is character, and x & y is dbl
-
 The variable x
 The lowest number is 15.56 and the largest number is 98.29
 The median is 52.59
 The average is 54.27
-——-
-
 The variable y
 The lowest number 0,015
 The largest number is 99,694
 The mediator 47.59
 The average is 47.83
-
-
 In the variable x
 First Quarter 1st Qu
 It means that 25% of the data is less than 41.07
 And 75% ؜ of it is higher than the same number
-
 The third quarter is 3rd Qu
-It means that 75% of the data is below 67.28 and 25% of it is higher
-—————-
-
+It means that 75% of the data is below 67.28 and 25% of it is highe
 The variable y
 First Quarter
 25% of data is below 22,56
 And 75% ؜ higher
-
 The third quarter means 75% ؜ of the data below 71.81
 And 25% ؜ higher
 )
